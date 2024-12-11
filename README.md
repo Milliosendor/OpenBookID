@@ -1,4 +1,4 @@
-# OpenBook V2
+# OpenBookID
 
 A central-limit order-book program based on [Mango V4](https://github.com/blockworks-foundation/mango-v4) and the [previous OpenBook program](https://github.com/openbook-dex/program) (which was a fork of [Serum](https://github.com/project-serum/serum-dex)).
 
